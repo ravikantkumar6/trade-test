@@ -14,9 +14,11 @@
 * Third is schedular, picking data from the queue in each 15 second and sending to websocket topic.
 
 #Data structures
+
 Mainly I have used Blocking queue and List data Structure. 
 
 #Instructions to setup and run
+
 We can run this application in any env. No need of any external thing.
 
 ```java
